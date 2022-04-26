@@ -1,0 +1,2 @@
+https://www.ti.com/lit/ds/snvs538c/snvs538c.pdf (Suitable for two switch flyback and forward)
+For the selected controller, D must be smaller than 0.5. Hence: N1=3, N2=4, D=[0.2 0.33] satisfies the conditions.
