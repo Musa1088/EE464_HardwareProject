@@ -1,0 +1,3 @@
+Circuit: @OrCAD Simulation Server Version: 1.0
+
+Fatal Error: Unknown SPICE device type "@" in "@settings: 0 1"
